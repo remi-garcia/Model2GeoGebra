@@ -1,5 +1,5 @@
 # Model2GeoGebra
-Graphically solve [JuMP](https://github.com/jump-dev/JuMP.jl) model with two decision variables using [GeoGebra](https://github.com/geogebra/geogebra)
+Graphically solves [JuMP](https://github.com/jump-dev/JuMP.jl) model (with two decision variables) using [GeoGebra](https://github.com/geogebra/geogebra)
 
 ### Usage
 ```julia
