@@ -164,7 +164,7 @@ function conversion(model::Model)
 	<layer val="1"/>
 	<labelMode val="0"/>
 	<fixed val="true"/>
-	<coords x="$(coefs[i][1])" y="$(coefs[i][2])" z="-$(coefs[i][3])"/>
+	<coords x="$(coefs[i][1])" y="$(coefs[i][2])" z="$(-coefs[i][3])"/>
 	<lineStyle thickness="3" type="0" typeHidden="1"/>
 	<eqnStyle style="implicit"/>
 </element>
